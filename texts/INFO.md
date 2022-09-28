@@ -5,3 +5,5 @@
 [The Communist Manifest by Karl Marx](https://www.gutenberg.org/cache/epub/61/pg61.txt)
 
 Quotes - personal recollection
+
+[Lyrics - Sad But True (Metallica)](https://lyrics.github.io/db/M/Metallica/Metallica/Sad%20But%20True/)
